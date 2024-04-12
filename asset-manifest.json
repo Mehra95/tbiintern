@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tbiintern/static/css/main.f855e6bc.css",
+    "main.js": "/tbiintern/static/js/main.2b2c845a.js",
+    "static/js/453.64512fd7.chunk.js": "/tbiintern/static/js/453.64512fd7.chunk.js",
+    "index.html": "/tbiintern/index.html",
+    "main.f855e6bc.css.map": "/tbiintern/static/css/main.f855e6bc.css.map",
+    "main.2b2c845a.js.map": "/tbiintern/static/js/main.2b2c845a.js.map",
+    "453.64512fd7.chunk.js.map": "/tbiintern/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.2b2c845a.js"
+  ]
+}
